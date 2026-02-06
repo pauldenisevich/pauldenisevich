@@ -6,8 +6,8 @@ Alongside engineering, I focus on daily trading, market data analysis, and algor
 
 ---
 
-<img src="https://skillicons.dev/icons?i=py&theme=light" height="22" style="vertical-align: middle; margin-right: 8px;" /> **Backend:** Python (FastAPI, Django), Node.js, PHP (Laravel), PostgreSQL, TimescaleDB, Redis, AsyncIO, WebSockets, REST APIs
+**Backend:** Python (FastAPI, Django), Node.js, PHP (Laravel), PostgreSQL, TimescaleDB, Redis, AsyncIO, WebSockets, REST APIs
 
-<img src="https://skillicons.dev/icons?i=react&theme=light" height="22" style="vertical-align: middle; margin-right: 8px;" /> **Frontend:** React, Next.js, TypeScript, Tailwind CSS
+**Frontend:** React, Next.js, TypeScript, Tailwind CSS
 
-<img src="https://skillicons.dev/icons?i=docker&theme=light" height="22" style="vertical-align: middle; margin-right: 8px;" /> **Infra / Tooling:** Linux, Docker, CI/CD, Unit & integration testing, Data pipelines, Cloud (AWS, GCP)
+**Infra / Tooling:** Linux, Docker, CI/CD, Unit & integration testing, Data pipelines, Cloud (AWS, GCP)
