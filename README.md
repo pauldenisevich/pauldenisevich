@@ -4,6 +4,6 @@ I’m a full-stack engineer and algorithmic trader. I work primarily with Python
 
 ---
 
-**&mdash; Backend:** Python (FastAPI, Django), Node.js, PHP (Laravel), PostgreSQL, TimescaleDB, Redis, AsyncIO, WebSockets, REST APIs  
+**&mdash; Backend:** Python (FastAPI, Django, Flask), Node.js, PHP (Laravel), PostgreSQL, TimescaleDB, Redis, AsyncIO, WebSockets, REST APIs  
 **&mdash; Frontend:** React, Next.js, TypeScript, Tailwind CSS  
 **&mdash; Infra & Tooling:** Linux, Docker, CI/CD, Unit & integration testing, Data pipelines, Cloud (AWS, GCP)
