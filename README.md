@@ -1,3 +1,3 @@
 Hi, I’m Paul — a full-stack engineer and algorithmic trader building data-driven systems with Python, FastAPI, PostgreSQL, TimescaleDB, Redis, React, TypeScript, Docker, and modern cloud infrastructure. I focus on backend architecture, real-time and historical market data processing, APIs, automation, analytical pipelines, and clean, high-performance user interfaces, with a strong emphasis on correctness, scalability, testability, and long-term maintainability. Outside engineering, I’m actively involved in trading, market analysis, and algorithmic decision-making, and I enjoy cooking, art, photography, and travel.
 
-Currenly I'm building DF: a realtime automated trading system.
+Currenly building DF: a realtime automated trading system.
